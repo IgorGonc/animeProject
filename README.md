@@ -23,7 +23,3 @@ Themoviedb: https://www.themoviedb.org/
 Themoviedb Docs: https://developers.themoviedb.org/3
 font family: https://fonts.google.com/specimen/Bebas+Neue
 illustration: https://undraw.co/search
-
-### Video Tutorial
-
-You can see my youtube video for this project in [here](https://youtu.be/jfNS3254gS8)
